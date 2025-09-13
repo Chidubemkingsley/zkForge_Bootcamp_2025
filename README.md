@@ -24,14 +24,21 @@ Table of Contents
 ## Week 1 Zk Fundamental.
 
 - [Intro To Zero Knowledge](https://docs.google.com/presentation/d/1dfLZ0f6lROO-z8pj_qEGPhX97YB7Wug8OJ3PjWKCTKg/edit?usp=sharing) [Youtube Link](https://youtu.be/miIOJFkGcY4?si=LLEzFAezFy9bdh8y)
+
 - [Intro To zkVM,Prover,Verifier Network](https://docs.google.com/presentation/d/1Lq1SspCLD52O65VYbMikrV5dPtnrW1NY2SBRoL6_3MQ/edit?slide=id.p#slide=id.p) [Youtube Link](https://youtu.be/A6RMcm8xYTM)
+
+
 - Introduction
   - [Understanding ZKPs Through Illustrated Examples](https://blog.goodaudience.com/understanding-zero-knowledge-proofs-through-simple-examples-df673f796d99)
   
 ## Week 2 Cryptography
   
   - [Writing Circuits And Verifying Proofs-DSL(Noir) Youtube Link](https://www.youtube.com/watch?v=eHCpbtLQFlg)
-i  - [Writing Circuits & Verifying Proofs - Circom](https://docs.circom.io/getting-started/proving-circuits/) and [Writing Circuits & Verifying Proofs - Circom](https://docs.circom.io/getting-started/writing-circuits/)
+ - [Noir Language](https://noir-lang.org/)
+ - [Noir Resources](https://github.com/noir-lang/awesome-noir)
+
+ - [Writing Circuits & Verifying Proofs - Circom](https://docs.circom.io/getting-started/proving-circuits/)
+ - [Writing Circuits & Verifying Proofs - Circom](https://docs.circom.io/getting-started/writing-circuits/)
 
 
 ## Week 3 Demo Project 1
