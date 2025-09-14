@@ -43,6 +43,11 @@ Table of Contents
 
 ## Week 3 Demo Project 1
   - [Intro to zkVM](https://youtu.be/rdmbySXu-jM?si=VHWa_Da4kItUD9Rx)
+  - [Prof. Dan Boneh's MOOC's on Cryptography](https://t.co/D01tCy4Yuw)
+  - [From Zero To Knowledge By vanishreerao](https://www.hozk.io/education)
+  - [Hackathos With ZKVMS(Q1 2026 by](https://x.com/fermah_xyz)
+
+
   - [zkEmail With zkVerify-Build,Test And Deploy](https://youtu.be/ybMZ4tp45U4?si=QDCE_rYT-au5LnV_)
 
 
@@ -59,6 +64,18 @@ Table of Contents
 ## Week 5 Demo Project 3
   
   - [Demo Project - 3 with zkVerify - Build](https://docs.google.com/presentation/d/1we1RhSw8wMKPvwIo_2igbdmOXXT1prSN/edit?usp=sharing&ouid=112618779505767022621&rtpof=true&sd=true)
+
+  - [Demo Project - 3 zkVerify And Horizen](https://docs.zkverify.io/overview/getting-started/generating-proof)
+  - [zkrepl For circom](https://zkrepl.dev/)
+  - [Verifying proofs with relayer](https://docs.zkverify.io/overview/getting-started/relayer)
+  - [Check Transaction Hash](https://zkverify-testnet.subscan.io/)
+  - [Walkthrough verifying A Groth 16 Using Horizen Relayer](https://x.com/0xMilica/status/1936141567992979831)
+
+
+
+   
+
+
 
 
 
