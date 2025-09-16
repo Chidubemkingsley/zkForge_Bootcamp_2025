@@ -70,8 +70,7 @@ Table of Contents
 
   - [Demo Project - 3 zkVerify And Horizen](https://docs.zkverify.io/overview/getting-started/generating-proof)
   - [zkrepl For circom](https://zkrepl.dev/)
-  - [Verifying proofs with relayer](https://docs.zkverify.io/overviu
-    uew/getting-started/relayer)
+  - [Verifying proofs with relayer](https://docs.zkverify.io/overview/getting-started/relayer)
   - [Check Transaction Hash](https://zkverify-testnet.subscan.io/) 
   - [Walkthrough verifying A Groth 16 Using Horizen Relayer](https://x.com/0xMilica/status/1936141567992979831)
 
