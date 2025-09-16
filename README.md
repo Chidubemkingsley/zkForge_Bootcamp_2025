@@ -49,11 +49,14 @@ Table of Contents
 
 
   - [zkEmail With zkVerify-Build,Test And Deploy](https://youtu.be/ybMZ4tp45U4?si=QDCE_rYT-au5LnV_)
-
+    
 
 ## Week 4. Demo Project 2
+  - [YoutTube link Introduction To Ziren](https://youtu.be/4U-TcXs9A3Y?si=0r0o4nMbc5uMIJU3)
   - [Demo Project - 2 with ZKM - Build](https://docs.zkm.io/)
   -[ProjectZKM/Ziren](https://github.com/ProjectZKM/Ziren/tree/main/examples)
+
+  - [Youtube link Ziren -Test And Deploy](https://youtu.be/S-vMFnBEVxg?si=hh5r5qAe8w60lTqK)
   - [Demo Project - 2 with ZKM - Test And Deploy](https://github.com/ProjectZKM/zkm)
   - [ZKM Project Template](https://github.com/ProjectZKM/zkm-project-template)
   - [Developer Tutorial For ZkM](https://docs.zkm.io/dev/overview.html)
@@ -67,8 +70,9 @@ Table of Contents
 
   - [Demo Project - 3 zkVerify And Horizen](https://docs.zkverify.io/overview/getting-started/generating-proof)
   - [zkrepl For circom](https://zkrepl.dev/)
-  - [Verifying proofs with relayer](https://docs.zkverify.io/overview/getting-started/relayer)
-  - [Check Transaction Hash](https://zkverify-testnet.subscan.io/)
+  - [Verifying proofs with relayer](https://docs.zkverify.io/overviu
+    uew/getting-started/relayer)
+  - [Check Transaction Hash](https://zkverify-testnet.subscan.io/) 
   - [Walkthrough verifying A Groth 16 Using Horizen Relayer](https://x.com/0xMilica/status/1936141567992979831)
 
 
